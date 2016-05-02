@@ -1,4 +1,4 @@
-# toDoJava
+# ToDoListDataBase
 practice in java
 
 ## Description
@@ -32,9 +32,11 @@ _To contact, leave a comment on Github._
 * _FluentLenium_
 * _Gradle_
 * _Spark_
+* _sql_
+* _postgres_
 
 ### License
 
 *MIT License*
 
-Copyright (c) 2016 **_Arlen Burton_** and s**_Paul Hess_**
+Copyright (c) 2016 **_Blake_**
